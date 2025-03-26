@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   app: {
     head: {
-      title: "Frontend Test | Elemes Challnage",
+      title: "Elemes Frontend Test - Patuan Situmorang",
       meta: [
         { charset: "utf-8" },
         { name: "viewport", 
